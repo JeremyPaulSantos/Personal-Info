@@ -3,11 +3,14 @@ Age: 19
 Birthday: January 13,2000
 Phone #: 09772314998
 Nickname: Jer
+Major: Industrial Engineering 
+Studies at: University of Sto. Tomas
 Hobbies: Basketball, and Cycling
 Desserts I like: Chocolate 
 	         Vanila 
                  Fruit smoothies 
 		 Milk tea
+
 
 
 

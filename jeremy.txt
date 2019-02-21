@@ -3,6 +3,7 @@ Age: 19
 Birthday: January 13,2000
 Phone #: 09772314998
 Nickname: Jer
+Status: Single
 Major: Industrial Engineering 
 Studies at: University of Sto. Tomas
 Lives in: Makati
